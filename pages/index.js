@@ -17,44 +17,24 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <Image src="/candy-logo-bus.png" alt="Candy Party Bus Logo" width={300} height={350} />
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Wolf charters has moved. <br /> We are now <br/> <a href="https://candypartybus.com/">Candy Party Bus</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Dear valued customers,
+          <br /><br />
+          We are excited to announce that Wolf Charters has now merged with Candy Party Bus! As a result of this merge, our services and website have moved to the Candy Party Bus website.
+          <br /><br />
+          We are committed to providing you with the best transportation service possible and this merge allows us to do just that. Our team is always looking for ways to improve and progress, and we believe that this move is a step in the right direction.
+          <br /><br />
+          We apologize for any inconvenience this may cause, but rest assured that our services and commitment to excellence will not be affected. We thank you for your continued support and look forward to serving you on your next transportation adventure.
+          <br /><br />
+          Sincerely,
+          <br /><br />
+          The Wolf Charters and Candy Party Bus Team
         </p>
-
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
-            className={styles.card}
-          >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h2>Deploy &rarr;</h2>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
-        </div>
       </main>
 
       <footer className={styles.footer}>
@@ -65,7 +45,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+            <Image src="/candy-logo-bus.png" alt="Candy Party Bus Logo" width={80} height={85} />
           </span>
         </a>
       </footer>
