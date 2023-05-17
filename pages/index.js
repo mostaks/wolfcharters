@@ -21,22 +21,20 @@ export default function Home() {
         <Image className={styles.image} src="/candy-logo-bus.png" alt="Candy Party Bus Logo" width={400} height={300} />
         </a>
         <h1 className={styles.title}>
-          Wolf charters has moved. <br /> We are now <br/> 
+          Wolf charters is under new management. <br /> We are now <br/> 
           <a href="https://candypartybus.com/" rel="noopener" target="_blank">Candy Party Bus</a>
         </h1>
 
         <p className={styles.description}>
-          Dear valued customers,
+          Hey there, party animals! 
           <br /><br />
-          We are excited to announce that Wolf Charters has merged with Candy Party Bus! As a result of this merge, our services and website have moved to the Candy Party Bus website.
+          We've got some seriously sweet news to share with you! Brace yourselves for the most epic merger in transportation history. Wolf Charters and Candy Party Bus have joined forces to create the ultimate party powerhouse! 🎉🚌
           <br /><br />
-          We are committed to providing you with the best transportation service possible and this merge allows us to do just that. Our team is always looking for ways to improve and progress, and we believe that this move is a step in the right direction.
+          Picture this: the sleek and stylish rides from Wolf Charters colliding with the funky and vibrant vibes of Candy Party Bus. It's a match made in party heaven! From now on, our rides will be off the charts cool, with the sassiest drivers, the most mind-blowing sound systems, and oh-so-instagrammable interiors.
           <br /><br />
-          We apologize for any inconvenience this may cause, but rest assured that our services and commitment to excellence will not be affected. We thank you for your continued support and look forward to serving you on your next transportation adventure.
+          Get ready to party like never before because the streets are about to become our candy-coated playground!
           <br /><br />
-          Sincerely,
-          <br /><br />
-          The Candy Party Bus Team
+          It's time to buckle up, grab your friends, and let the good times roll! 🎈🐺🍭
         </p>
       </main>
 

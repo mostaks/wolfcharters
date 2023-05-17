@@ -168,4 +168,8 @@
   .description {
     font-size: 18px;
   }
+
+    .container:after {
+      background-position: 50% 32%;
+    }
 }
