@@ -17,15 +17,18 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <Image src="/candy-logo-bus.png" alt="Candy Party Bus Logo" width={300} height={350} />
+        <a href="https://candypartybus.com/" rel="noopener" target="_blank">
+        <Image src="/candy-logo-bus.png" alt="Candy Party Bus Logo" width={400} height={300} />
+        </a>
         <h1 className={styles.title}>
-          Wolf charters has moved. <br /> We are now <br/> <a href="https://candypartybus.com/">Candy Party Bus</a>
+          Wolf charters has moved. <br /> We are now <br/> 
+          <a href="https://candypartybus.com/" rel="noopener" target="_blank">Candy Party Bus</a>
         </h1>
 
         <p className={styles.description}>
           Dear valued customers,
           <br /><br />
-          We are excited to announce that Wolf Charters has now merged with Candy Party Bus! As a result of this merge, our services and website have moved to the Candy Party Bus website.
+          We are excited to announce that Wolf Charters has merged with Candy Party Bus! As a result of this merge, our services and website have moved to the Candy Party Bus website.
           <br /><br />
           We are committed to providing you with the best transportation service possible and this merge allows us to do just that. Our team is always looking for ways to improve and progress, and we believe that this move is a step in the right direction.
           <br /><br />
@@ -33,13 +36,13 @@ export default function Home() {
           <br /><br />
           Sincerely,
           <br /><br />
-          The Wolf Charters and Candy Party Bus Team
+          The Candy Party Bus Team
         </p>
       </main>
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://candypartybus.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
