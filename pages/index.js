@@ -18,7 +18,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <a href="https://candypartybus.com/" rel="noopener" target="_blank">
-        <Image src="/candy-logo-bus.png" alt="Candy Party Bus Logo" width={400} height={300} />
+        <Image className={styles.image} src="/candy-logo-bus.png" alt="Candy Party Bus Logo" width={400} height={300} />
         </a>
         <h1 className={styles.title}>
           Wolf charters has moved. <br /> We are now <br/> 
@@ -48,7 +48,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/candy-logo-bus.png" alt="Candy Party Bus Logo" width={80} height={85} />
+            <Image src="/candy-logo-bus.png" alt="Candy Party Bus Logo" width={80} height={70} />
           </span>
         </a>
       </footer>

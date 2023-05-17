@@ -139,6 +139,11 @@
   line-height: 1.5;
 }
 
+.image {
+  width: 400px;
+  height: 300px;
+}
+
 .logo {
   margin-left: 0.5rem;
 }
@@ -149,7 +154,19 @@
     flex-direction: column;
   }
 
+  .image {
+    width: 300px;
+    height: 200px;
+  }
+
   .description {
     margin: 0;
+  }
+  .title {
+    font-size: 36px;
+  }
+
+  .description {
+    font-size: 18px;
   }
 }
