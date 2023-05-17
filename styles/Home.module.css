@@ -15,6 +15,7 @@
 
 .container {
   padding: 0 2rem;
+  background-color: black;
 }
 
 .container:after {
@@ -30,7 +31,7 @@
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: 110%;
-  z-index: -1;
+  pointer-events: none;
 }
 
 .main {
