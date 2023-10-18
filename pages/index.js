@@ -11,11 +11,11 @@ export default function Home() {
           name="description"
           content="Wolf charters has moved. We are now Candy Party Bus Hire."
         />
-        <link rel="icon" href="favicon/favicon.ico" />
-        <link rel="icon" type="image/png" href="favicon/favicon-16x16.png" />
-        <link rel="icon" type="image/png" href="favicon/favicon-32x32.png" />
-        <link rel="apple-touch-icon" href="favicon/apple-touch-icon.png" />
-        <link rel="manifest" href="/site.webmanifest" />
+        <link rel="icon" href="favicon/favicon.ico"/>
+        <link rel="icon" type="image/png" href="favicon/favicon-16x16.png"/>
+        <link rel="icon" type="image/png" href="favicon/favicon-32x32.png"/>
+        <link rel="apple-touch-icon" href="favicon/apple-touch-icon.png"/>
+        <link rel="manifest" href="/site.webmanifest"/>
       </Head>
 
       <main className={styles.main}>
@@ -29,7 +29,7 @@ export default function Home() {
           />
         </a>
         <h1 className={styles.title}>
-          Wolf charters is under new management. <br /> We are now <br />
+          Wolf charters is under new management. <br/> We are now <br/>
           <a href="https://candypartybus.com/" rel="noopener" target="_blank">
             Candy Party Bus
           </a>
@@ -45,25 +45,25 @@ export default function Home() {
 
         <p className={styles.description}>
           Hey there, party animals!
-          <br />
-          <br />
+          <br/>
+          <br/>
           We've got some seriously sweet news to share with you! Brace
           yourselves for the most epic merger in transportation history. Wolf
           Charters and Candy Party Bus have joined forces to create the ultimate
           party powerhouse! 🎉🚌
-          <br />
-          <br />
+          <br/>
+          <br/>
           Picture this: the sleek and stylish rides from Wolf Charters colliding
           with the funky and vibrant vibes of Candy Party Bus. It's a match made
           in party heaven! From now on, our rides will be off the charts cool,
           with the sassiest drivers, the most mind-blowing sound systems, and
           oh-so-instagrammable interiors.
-          <br />
-          <br />
+          <br/>
+          <br/>
           Get ready to party like never before because the streets are about to
           become our candy-coated playground!
-          <br />
-          <br />
+          <br/>
+          <br/>
           It's time to buckle up, grab your friends, and let the good times
           roll! 🎈🐺🍭
         </p>
