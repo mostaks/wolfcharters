@@ -29,7 +29,7 @@ export default function Home() {
           />
         </a>
         <h1 className={styles.title}>
-          Wolf charters is under new management. <br/> We are now <br/>
+          Wolf charters has merged with <br />
           <a href="https://candypartybus.com/" rel="noopener" target="_blank">
             Candy Party Bus
           </a>
