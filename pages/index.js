@@ -44,28 +44,28 @@ export default function Home() {
         </a>
 
         <p className={styles.description}>
-          Hey there, party animals!
+          {`Hey there, party animals!`}
           <br/>
           <br/>
-          We've got some seriously sweet news to share with you! Brace
-          yourselves for the most epic merger in transportation history. Wolf
-          Charters and Candy Party Bus have joined forces to create the ultimate
-          party powerhouse! 🎉🚌
+          {`We've got some seriously sweet news to share with you! Brace
+            yourselves for the most epic merger in transportation history. Wolf
+            Charters and Candy Party Bus have joined forces to create the ultimate
+            party powerhouse! 🎉🚌`}
           <br/>
           <br/>
-          Picture this: the sleek and stylish rides from Wolf Charters colliding
-          with the funky and vibrant vibes of Candy Party Bus. It's a match made
-          in party heaven! From now on, our rides will be off the charts cool,
-          with the sassiest drivers, the most mind-blowing sound systems, and
-          oh-so-instagrammable interiors.
+          {`Picture this: the sleek and stylish rides from Wolf Charters colliding
+            with the funky and vibrant vibes of Candy Party Bus. It's a match made
+            in party heaven! From now on, our rides will be off the charts cool,
+            with the sassiest drivers, the most mind-blowing sound systems, and
+            oh-so-instagrammable interiors.`}
           <br/>
           <br/>
-          Get ready to party like never before because the streets are about to
-          become our candy-coated playground!
+          {`Get ready to party like never before because the streets are about to
+            become our candy-coated playground!`}
           <br/>
           <br/>
-          It's time to buckle up, grab your friends, and let the good times
-          roll! 🎈🐺🍭
+          {`It's time to buckle up, grab your friends, and let the good times
+            roll! 🎈🐺🍭`}
         </p>
       </main>
 
